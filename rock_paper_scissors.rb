@@ -1,3 +1,5 @@
+Hey Emily! Charlie Rocks!
+
 puts "What is your move? R=rock, P=paper, S=scissors"
 p1 = gets.chomp
 
